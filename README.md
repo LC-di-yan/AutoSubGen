@@ -143,4 +143,4 @@ output/
 下载 FFmpeg 并加入系统 PATH。
 
 **支持哪些格式？**
-mp4、avi、mkv、mov、wmv、flv、webm。
+mp4、avi、mkv、mov、wmv、flv、webm.
