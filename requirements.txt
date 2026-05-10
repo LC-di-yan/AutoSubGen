@@ -1,0 +1,8 @@
+openai>=1.0.0
+openai-whisper>=20240930
+ffmpeg-python>=0.2.0
+tqdm>=4.66.0
+opencc-python-reimplemented>=0.1.7
+fastapi>=0.110.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
